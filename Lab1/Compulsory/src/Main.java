@@ -1,7 +1,8 @@
+
 /**
  * Laboratorul 1, Programare Avansata
  * @author Dobre Roxana-Elena
- * grupa 2A2
+ * grupa 3A2
  */
 public class Main {
     /**
@@ -50,7 +51,8 @@ public class Main {
         System.out.println("Hello world!");                                                                        ///ex1
         String languages [] = {"C", "C++", "C#", "Python", "Go", "Rust", "JavaScript", "PHP", "Swift", "Java"} ;   ///ex2
         int n = (int) (Math.random() * 1_000_000);                                                                 ///ex3
-        int sum=0;                                                                                            ///ex4
+        int sum=0;
+        n=ex4(n);                                                                                                  ///ex4
         n=ex4(n);                                                                                                  ///ex4
         sum=ex5(n);                                                                                                ///ex5
         System.out.println("Willy-nilly, this semester I will learn " + languages[sum]);                           ///ex6
