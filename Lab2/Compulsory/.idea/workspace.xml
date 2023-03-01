@@ -5,24 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66b5b8eb-bef4-426f-ae41-e60636d67612" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Compulsory/out/production/Compulsory/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Compulsory/out/production/Compulsory/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Compulsory/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Compulsory/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/untitled/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/untitled/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/untitled/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/untitled/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/untitled/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/untitled/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/untitled/untitled.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Compulsory/Event.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Compulsory/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compulsory/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Compulsory/Room.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compulsory/Room.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Compulsory/RoomType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Event.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab1/Homework/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Homework/src/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab1/Homework/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Homework/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Room.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RoomType.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -5,7 +5,7 @@
  */
 public class Main {
     public static void main(String[] args) {
-
+        //creating Locations testing the Locations constructors
         Location c1 = new Location();
         c1.setName("Iași");
         c1.setX(0.0);
@@ -19,6 +19,7 @@ public class Main {
         Location c3 = new Location("Bacau", 11.0, 22.0, LocationType.CITY);
         System.out.println(c3);
 
+        //creating Roads and testing the Roads constructors
         Road r1 = new Road("D24", RoadType.EXPRESS, c1, c2);
         System.out.println(r1);
 
