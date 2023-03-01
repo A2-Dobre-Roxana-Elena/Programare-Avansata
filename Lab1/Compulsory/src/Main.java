@@ -53,7 +53,6 @@ public class Main {
         int n = (int) (Math.random() * 1_000_000);                                                                 ///ex3
         int sum=0;
         n=ex4(n);                                                                                                  ///ex4
-        n=ex4(n);                                                                                                  ///ex4
         sum=ex5(n);                                                                                                ///ex5
         System.out.println("Willy-nilly, this semester I will learn " + languages[sum]);                           ///ex6
 
